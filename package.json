@@ -1,7 +1,7 @@
 {
-  "name": "betfair",
-  "version": "0.7.8",
-  "description": "Betfair JSON API",
+  "name": "betfair-fixed-locale",
+  "version": "0.7.9",
+  "description": "Betfair JSON API from AlgoTrade. Fixed locale version",
   "main": "index.js",
   "private": false,
   "directories": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/AlgoTrader/betfair.git"
+    "url": "git://github.com/jayzzer/betfair.git"
   },
   "keywords": [
     "betfair",
@@ -25,7 +25,7 @@
     "new",
     "api"
   ],
-  "author": "AlgoTrader",
+  "author": "AlgoTrade",
   "license": "BSD",
   "dependencies": {
     "async": "*",
