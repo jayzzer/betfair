@@ -140,7 +140,6 @@ class BetfairInvocation {
             headers: {
                 'X-Authentication': this.sessionKey,
                 'Content-Type': 'application/json',
-                'Content-Length': this.jsonRequestBody.length,
                 'Connection': 'keep-alive'
             }
         };
